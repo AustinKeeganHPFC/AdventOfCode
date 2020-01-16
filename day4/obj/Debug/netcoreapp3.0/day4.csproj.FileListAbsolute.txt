@@ -1,0 +1,10 @@
+C:\Users\akeegan\Documents\AdventOfCode\day4\bin\Debug\netcoreapp3.0\day4.exe
+C:\Users\akeegan\Documents\AdventOfCode\day4\bin\Debug\netcoreapp3.0\day4.deps.json
+C:\Users\akeegan\Documents\AdventOfCode\day4\bin\Debug\netcoreapp3.0\day4.runtimeconfig.json
+C:\Users\akeegan\Documents\AdventOfCode\day4\bin\Debug\netcoreapp3.0\day4.runtimeconfig.dev.json
+C:\Users\akeegan\Documents\AdventOfCode\day4\bin\Debug\netcoreapp3.0\day4.dll
+C:\Users\akeegan\Documents\AdventOfCode\day4\bin\Debug\netcoreapp3.0\day4.pdb
+C:\Users\akeegan\Documents\AdventOfCode\day4\obj\Debug\netcoreapp3.0\day4.AssemblyInfoInputs.cache
+C:\Users\akeegan\Documents\AdventOfCode\day4\obj\Debug\netcoreapp3.0\day4.AssemblyInfo.cs
+C:\Users\akeegan\Documents\AdventOfCode\day4\obj\Debug\netcoreapp3.0\day4.dll
+C:\Users\akeegan\Documents\AdventOfCode\day4\obj\Debug\netcoreapp3.0\day4.pdb
