@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\akeegan\\Documents\\AdventOfCode\\day6\\day6.csproj",
+      "projectUniqueName": "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day6\\day6.csproj",
       "projectName": "day6",
-      "projectPath": "C:\\Users\\akeegan\\Documents\\AdventOfCode\\day6\\day6.csproj",
+      "projectPath": "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day6\\day6.csproj",
       "packagesPath": "C:\\Users\\akeegan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\akeegan\\Documents\\AdventOfCode\\day6\\obj\\",
+      "outputPath": "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day6\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\akeegan\\AppData\\Roaming\\NuGet\\NuGet.Config",

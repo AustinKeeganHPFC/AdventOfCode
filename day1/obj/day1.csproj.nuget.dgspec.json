@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day2\\day2.csproj": {}
+    "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day1\\day1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day2\\day2.csproj": {
+    "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day1\\day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day2\\day2.csproj",
-        "projectName": "day2",
-        "projectPath": "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day2\\day2.csproj",
+        "projectUniqueName": "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day1\\day1.csproj",
+        "projectName": "day1",
+        "projectPath": "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day1\\day1.csproj",
         "packagesPath": "C:\\Users\\akeegan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day2\\obj\\",
+        "outputPath": "C:\\Users\\akeegan\\source\\repos\\AdventOfCode\\day1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\akeegan\\AppData\\Roaming\\NuGet\\NuGet.Config",
