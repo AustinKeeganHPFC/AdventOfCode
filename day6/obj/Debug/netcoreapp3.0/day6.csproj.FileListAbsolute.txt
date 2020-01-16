@@ -1,0 +1,4 @@
+C:\Users\akeegan\source\repos\AdventOfCode\day6\bin\Debug\netcoreapp3.0\day6.exe
+C:\Users\akeegan\source\repos\AdventOfCode\day6\obj\Debug\netcoreapp3.0\day6.csprojAssemblyReference.cache
+C:\Users\akeegan\source\repos\AdventOfCode\day6\obj\Debug\netcoreapp3.0\day6.AssemblyInfoInputs.cache
+C:\Users\akeegan\source\repos\AdventOfCode\day6\obj\Debug\netcoreapp3.0\day6.AssemblyInfo.cs
